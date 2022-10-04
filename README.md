@@ -1,2 +1,2 @@
-# 2week
-Working Copy
+# 2weekcoding
+Working Copy of 2 Week Coding
